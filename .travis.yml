@@ -15,6 +15,6 @@ after_script:
 notifications:
   irc:
     channels:
-      - "chat.freenode.net#etherex-dev"
+      - "chat.freenode.net#CoinbayDEX-dev"
     use_notice: true
     skip_join: true
