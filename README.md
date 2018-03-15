@@ -17,7 +17,7 @@ Components
 
 * contracts: Ethereum contracts in [Serpent](https://github.com/ethereum/serpent)
 * frontend: [React.js](https://github.com/facebook/react) UI
-* tests: EtherEx tests
+* tests: CoinbayDEX tests
 
 
 Requirements
@@ -35,7 +35,7 @@ Installation
 Start by cloning this repository.
 
 ```
-git clone https://github.com/etherex/etherex.git
+git clone https://github.com/Coinbay/CoinbayDEX.git
 ```
 
 
